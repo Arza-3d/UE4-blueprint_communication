@@ -5,12 +5,13 @@ Binaries/*
 Intermediate/*
 Saved/*
 
-Content/*
-!Content/BlueprintComponents/
-!Content/BlueprintLibrary/
-!Content/CharacterExamples/
-!Content/ThirdPersonCPP/
-Content/ThirdPersonCPP/Maps/
+Content/Collections/
+Content/Developers/
+Content/Geometry/
+Content/Mannequin/
+Content/ThirdPerson/
+Content/ThirdPersonBP/Blueprints/ThirdPersonGameMode.uasset
+Content/ThirdPersonBP/ThirdPersonOverview.uasset
 
 temp.html
 
